@@ -1,0 +1,11 @@
+一、第一個問題(網址列)的答案是?
+
+二、原始碼中是否有所有東西?
+　　-有 ＝》網址
+　　-沒有＝》開發人員選項-Network，找真正的網址
+
+回應：
+1.網頁-BeautifulSoup(response)
+2.json-json.load(response)
+3.多媒體-response.read()
+
